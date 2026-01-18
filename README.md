@@ -21,6 +21,12 @@ git submodule add https://github.com/tjf1dev/logger logger
 git commit -m "add logger submodule"
 ```
 
+#### updating
+
+```bash
+git submodule update --remote logger
+```
+
 ### without submodule
 
 ```bash
