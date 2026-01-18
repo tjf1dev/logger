@@ -96,4 +96,4 @@ if __name__ == "__main__":
         "this file isn't meant to be run directly. refer to the readme for more info"
     )
 
-VERSION = 9
+VERSION = 10
