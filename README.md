@@ -1,7 +1,7 @@
 # tjf1's logger setup
 
 simple python logger setup i use in most of my projects
-![showcase](images/showcase.png)
+<img width="760" height="181" alt="showcase" src="https://github.com/user-attachments/assets/8d8b615b-061e-4bda-9408-1c3a58d71205" />
 
 ## features
 
@@ -47,4 +47,4 @@ with a `latest.log` and a log file for every session
 to toggle file logging, open `logger/logger.py`  
 and set `FILE_LOGGING` to `True` or `False`
 
-![screenshot of logger.py file](images/file_logging.png)
+<img width="502" height="217" alt="file logging" src="https://github.com/user-attachments/assets/e6cdef59-6f63-47ac-953c-7ea7da040a48" />
