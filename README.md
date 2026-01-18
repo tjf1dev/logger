@@ -48,7 +48,6 @@ to change the default behavior, open `logger/logger.py`
 - `FILE_LOGGING`: is file logging enabled
 - `LOG_PATH`: the name of the directory to save logs to
 - `FILENAME_DATE_STR`: the name of the log files ([available codes](https://docs.python.org/3/library/datetime.html#strftime-and-strptime-format-codes))
-- `LEVEL`: default logger level
   - <details>
     <summary>available codes</summary>
 
@@ -82,6 +81,8 @@ to change the default behavior, open `logger/logger.py`
     </details>
 
   - ([from python's docs](https://docs.python.org/3/library/datetime.html#strftime-and-strptime-format-codes))
+
+- `LEVEL`: default logger level
 
 <img width="487" height="252" alt="config setup" src="https://github.com/user-attachments/assets/faa711b0-a6a3-489b-8e82-fab14f63f060" />
 
