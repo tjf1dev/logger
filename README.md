@@ -12,8 +12,8 @@ simple python logger setup i use in most of my projects
 
 ## install
 
-> ![WARNING]
-> it is very recommended to use a virtual environment.
+> [!WARNING]
+> it is very much recommended to use a virtual environment.
 
 ### via clone (recommended)
 
