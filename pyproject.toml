@@ -1,10 +1,10 @@
 [project]
 name = "tj-logger"
-version = "1.13"
+version = "1.13.1"
 description = "simple logger setup"
 readme = "README.md"
 authors = [{ name = "tjf1dev", email = "hi@tjf1.dev" }]
-requires-python = ">=3.6"
+requires-python = ">=3.10"
 dependencies = ["ansik>=0.1.0"]
 
 [project.scripts]

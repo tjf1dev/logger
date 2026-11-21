@@ -15,7 +15,20 @@ simple python logger setup i use in most of my projects
 > ![WARNING]
 > it is very recommended to use a virtual environment.
 
-### as dependency
+### via clone (recommended)
+
+```bash
+git clone https://github.com/tjf1dev/logger logger
+```
+
+then in your project
+
+```py
+import logger
+logger.info("hi!")
+```
+
+### via dependency
 
 ```bash
 pip install tj-logger
@@ -25,6 +38,13 @@ or
 
 ```bash
 uv add tj-logger
+```
+
+then in your project
+
+```py
+import tj_logger as logger
+logger.info("hi!")
 ```
 
 ## usage
